@@ -2621,17 +2621,17 @@ ajv@^8.11.0:
     require-from-string "^2.0.2"
     uri-js "^4.2.2"
 
-"analytics-node@github:segmentio/analytics-node":
+analytics-node@segmentio/analytics-node:
   version "6.2.0"
-  resolved "https://codeload.github.com/segmentio/analytics-node/tar.gz/cef2c47a47e69ba03e99dc94aa7065d777626668"
+  resolved "https://codeload.github.com/segmentio/analytics-node/tar.gz/87d6e03cecb5f26f178f9f9b468dffe65bdbd0d3"
   dependencies:
     "@segment/loosely-validate-event" "^2.0.0"
     axios "^0.27.2"
     axios-retry "3.2.0"
     lodash.isstring "^4.0.1"
-    md5 "^2.2.1"
+    md5 "^2.3.0"
     ms "^2.0.0"
-    remove-trailing-slash "^0.1.0"
+    remove-trailing-slash "^0.1.1"
     uuid "^8.3.2"
 
 animate.css@^4.1.1:
@@ -6768,7 +6768,7 @@ makeerror@1.0.12:
   dependencies:
     tmpl "1.0.5"
 
-md5@^2.2.1:
+md5@^2.3.0:
   version "2.3.0"
   resolved "https://registry.yarnpkg.com/md5/-/md5-2.3.0.tgz#c3da9a6aae3a30b46b7b0c349b87b110dc3bda4f"
   integrity sha512-T1GITYmFaKuO91vxyoQMFETst+O71VUPEU3ze5GNzDm0OWdP8v1ziTaAEPUr/3kLsY3Sftgz242A1SetQiDL7g==
@@ -8523,7 +8523,7 @@ relateurl@^0.2.7:
   resolved "https://registry.yarnpkg.com/relateurl/-/relateurl-0.2.7.tgz#54dbf377e51440aca90a4cd274600d3ff2d888a9"
   integrity sha512-G08Dxvm4iDN3MLM0EsP62EDV9IuhXPR6blNz6Utcp7zyV3tr4HVNINt6MpaRWbxoOHT3Q7YN2P+jaHX8vUbgog==
 
-remove-trailing-slash@^0.1.0:
+remove-trailing-slash@^0.1.1:
   version "0.1.1"
   resolved "https://registry.yarnpkg.com/remove-trailing-slash/-/remove-trailing-slash-0.1.1.tgz#be2285a59f39c74d1bce4f825950061915e3780d"
   integrity sha512-o4S4Qh6L2jpnCy83ysZDau+VORNvnFw07CKSAymkd6ICNVEPisMyzlc00KlvvicsxKck94SEwhDnMNdICzO+tA==
